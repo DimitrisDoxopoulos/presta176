@@ -1,0 +1,17 @@
+{shop_url}
+
+{firstname_friend} {lastname_friend}, Γίνε μέλος!
+
+Ο/Η φίλος/η σας {firstname} {lastname} σας προτείνει να δείτε το κατάστημα [{shop_name}]({shop_url})!
+
+Είμαστε στην ευχάριστη θέση να σας προσφέρουμε ένα κουπόνι αξίας {discount} που μπορείτε να χρησιμοποιήσετε στην επόμενή σας παραγγελία. Αναφερθείτε από άλλους και κερδίστε ένα κουπόνι έκπτωσης του {discount}!
+
+[Είναι πολύ εύκολο να εγγραφείτε, απλά πατήστε εδώ!]({link})
+
+Όταν εγγραφείτε, μην ξεχάσετε να γράψετε και την e-mail διεύθυνση του φίλου που σας πρότεινε: {email}.
+
+Με εκτίμηση,
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

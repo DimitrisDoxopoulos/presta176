@@ -1,0 +1,29 @@
+{shop_url}
+
+Γεια,
+
+Λάβατε μια νέα αίτηση για επιστροφή για {shop_name}.
+
+Λεπτομέρειες Επιστροφής
+
+Παραγγελία: {order_name} Τοποθετήθηκε στις {date}
+
+Πελάτης: {firstname} {lastname}, ({email})
+
+Κωδικός	προϊόν	Ποσότητα   {items}
+
+Διεύθυνση παράδοσης
+
+{delivery_block_html}
+
+Διεύθυνση χρέωσης
+
+{invoice_block_html}
+
+Μήνυμα πελάτη:
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

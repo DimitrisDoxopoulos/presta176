@@ -1,0 +1,13 @@
+{shop_url}
+
+Συγχαρητήρια!
+
+Ο/Η προτεινόμενος/η φίλος/η σας {sponsored_firstname} {sponsored_lastname} έχει τοποθετήσει την πρώτη παραγγελία του/της στο [{shop_name}]({shop_url})!
+
+Είμαστε στην ευχάριστη θέση να σας προσφέρουμε ένα κουπόνι αξίας {discount_display} (VOUCHER # {discount_name}) που μπορείτε να χρησιμοποιήσετε στην επόμενη σας παραγγελία.
+
+Με εκτίμηση,
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

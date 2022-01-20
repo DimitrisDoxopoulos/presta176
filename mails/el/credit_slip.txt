@@ -1,0 +1,13 @@
+{shop_url}
+
+Γεια σου {firstname} {lastname},
+
+Παραγγελία {order_name} - Πιστωτικό δελτίο
+
+Ένα πιστωτικό δελτίο έχει δημιουργηθεί στο όνομά σας για την παραγγελία σας με κωδικό {order_name}.
+
+Επιθεωρήστε το πιστωτικό δελτίο και λάβετε το παραστατικό σας στο κατάστημά μας, πηγαίνετε στην ενότητα [Πιστωτικά Δελτία]({history_url}) στη καρτέλα πελάτη σας.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

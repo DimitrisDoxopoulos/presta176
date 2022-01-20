@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'tutorial17',
+    'database_user' => 'root',
+    'database_password' => '',
+    'database_prefix' => 'gm_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => '0mnNGAEkRWIxLzUO1L5KMV4xsVOvzsCEQFSvNTSh5z6HwIc8vpA23uwF',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2022-01-20',
+    'locale' => 'en-US',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'VUnEoJ5bjSj5vRHW8MeGO1RybILUTWnBCHn1NFvpAq1om7IvZkBMpwJK',
+    'cookie_iv' => 'Mi4tkNIM',
+    'new_cookie_key' => 'def00000f91a9e26c6c2490bc6859afa1278fd1306ea5faa3629a78abee8877ebec5b5a2f005bb497d82342a8dee9a8a3c226ed944379d33498b119e45ce355fb3577370',
+  ),
+);

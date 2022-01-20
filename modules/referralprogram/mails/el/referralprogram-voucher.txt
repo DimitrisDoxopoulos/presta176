@@ -1,0 +1,14 @@
+{shop_url}
+
+Γεια σου {firstname} {lastname},
+
+Χορηγών Πρόγραμμα
+
+Έχουμε δημιουργήσει ένα κουπόνι στο όνομά σας με αναφορά σε ένα φίλο.
+Ορίστε ο κωδικός του κουπονιού σας: {voucher_num}, με μια ποσότητα των {voucher_num}
+
+Απλά αντιγράψτε/επικολλήστε αυτό τον κωδικό κατά την διαδικασία πληρωμής για την επόμενή σας παραγγελία.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

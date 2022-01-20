@@ -1,0 +1,41 @@
+{shop_url}
+
+Γεια σου {firstname} {lastname},
+
+Ευχαριστούμε για την παραγγελία σας στο {shop_name}!
+
+Λεπτομέρειες παραγγελίας
+
+Παραγγελία: {order_name} Τοποθετήθηκε στις {date}
+
+Πληρωμή: {payment}
+
+Κωδικός	προϊόν	Τιμή τεμ.	Ποσότητα	Σύνολο αξίας  {products_txt} {discounts_txt}
+Προϊόντα	{total_products}
+Εκπτώσεις	{total_discounts}
+Συσκευασία Δώρου	{total_wrapping}
+Αποστολή	{total_shipping}
+Συμπεριλαμβάνεται συνολικός φόρος	{total_tax_paid}
+Σύνολο πληρωμών	{total_paid}
+
+Αποστολή
+
+Μεταφορέας: {carrier}
+
+Πληρωμή: {payment}
+
+Διεύθυνση παράδοσης
+
+{delivery_block_txt}
+
+Διεύθυνση χρέωσης
+
+{invoice_block_txt}
+
+Ακολουθήστε την παραγγελία σας και παραλάβετε τα παραστατικά σας στο κατάστημά μας, πηγαίνετε στην ενότητα [Ιστορικό Παραγγελιών]({history_url}) της καρτέλας πελάτη.
+
+Εάν έχετε ένα λογαριασμό επισκέπτη, μπορείτε να ακολουθήσετε την παραγγελία σας μέσω της ενότητας [Παρακολούθηση Επισκέπτη]({guest_tracking_url}) στο κατάστημά μας.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/en/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/en/blog/feed.xml</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.prestashop.com/en/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Why you should not overlook user experience on your online store</title>
+    <link>https://www.prestashop.com/en/blog/user-experience-online</link>
+    <description>When you enter a store, what do you look for?</description>
+     <pubDate>Wed, 12 Jan 2022 17:16:24 +0100</pubDate>
+ <dc:creator>Nahla Davies</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/user-experience-online</guid>
+  </item>
+  <item>
+    <title>10 key ecommerce trends to follow in 2022</title>
+    <link>https://www.prestashop.com/en/blog/ecommerce-trends-2022</link>
+    <description>The global pandemic has allowed ecommerce to make spectacular developments. Many consumers have definitely changed their purchasing behavior and are already making new demands.</description>
+     <pubDate>Fri, 31 Dec 2021 16:27:42 +0100</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/ecommerce-trends-2022</guid>
+  </item>
+  <item>
+    <title>Free, Fast, Reliable Shipping: A Must-Have for Customer Satisfaction</title>
+    <link>https://www.prestashop.com/en/blog/shipping-ecommerce-tips</link>
+    <description>Amazon prime has raised delivery expectations all across the country. Many online consumers now expect their online orders to arrive within two days, and they don’t want to pay for them.</description>
+     <pubDate>Wed, 29 Dec 2021 12:09:27 +0100</pubDate>
+ <dc:creator>Nahla Davies</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/shipping-ecommerce-tips</guid>
+  </item>
+  <item>
+    <title>Live shopping: What is it and how can it help your brand?</title>
+    <link>https://www.prestashop.com/en/blog/live-shopping-ecommerce</link>
+    <description>Live shopping, or live-stream shopping, has a history stretching back decades.</description>
+     <pubDate>Mon, 27 Dec 2021 13:25:28 +0100</pubDate>
+ <dc:creator>Nahla Davies</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/live-shopping-ecommerce</guid>
+  </item>
+  <item>
+    <title>Develop a content strategy to help your store stand out this Holiday Season</title>
+    <link>https://www.prestashop.com/en/blog/tiktok-strategy-ecommerce</link>
+    <description>We don&#039;t need to tell you that December is the key shopping month for online stores but with increased sales opportunities comes greater competition for customers&#039; attention.</description>
+     <pubDate>Tue, 21 Dec 2021 11:27:05 +0100</pubDate>
+ <dc:creator>Simon Fowler</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/tiktok-strategy-ecommerce</guid>
+  </item>
+  <item>
+    <title>Five tips for developing your international business</title>
+    <link>https://www.prestashop.com/en/blog/tips-international-ecommerce</link>
+    <description>With the internet, sales no longer have borders.</description>
+     <pubDate>Mon, 13 Dec 2021 17:46:00 +0100</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/tips-international-ecommerce</guid>
+  </item>
+  <item>
+    <title>Ten things every customer appreciates when buying online</title>
+    <link>https://www.prestashop.com/en/blog/tips-happy-customer</link>
+    <description>There are millions of online stores, which means you have to make your digital brand stand out as much as you can.</description>
+     <pubDate>Mon, 13 Dec 2021 15:53:13 +0100</pubDate>
+ <dc:creator>Nahla Davies</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/tips-happy-customer</guid>
+  </item>
+  <item>
+    <title>What is Facebook Conversions API and why it’s important for your ecommerce business</title>
+    <link>https://www.prestashop.com/en/blog/facebook-conversion-api-ecommerce</link>
+    <description>There’s no doubt we live in a data driven world, and it won’t change. No business can really survive without accurate data to build strategies, track progress and drive success.</description>
+     <pubDate>Fri, 03 Dec 2021 12:08:06 +0100</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/facebook-conversion-api-ecommerce</guid>
+  </item>
+  <item>
+    <title>Visibility for ecommerce on Google: Think beyond SEO &amp;amp; SEA</title>
+    <link>https://www.prestashop.com/en/blog/visibility-google-ecommerce</link>
+    <description>There are many ways to improve the visibility of your ecommerce on Google; in fact, whole careers and marketing departments are based on optimizing websites for better rankings on </description>
+     <pubDate>Thu, 02 Dec 2021 11:49:27 +0100</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/visibility-google-ecommerce</guid>
+  </item>
+  <item>
+    <title>How to take your ecommerce ERP to the next level with Microsoft Dynamics 365 Business Central</title>
+    <link>https://www.prestashop.com/en/blog/erp-for-ecommerce</link>
+    <description>The success of your ecommerce lies in the superior user experience, relevant data collection, and integration.</description>
+     <pubDate>Tue, 30 Nov 2021 13:56:34 +0100</pubDate>
+ <dc:creator>Invertus</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/erp-for-ecommerce</guid>
+  </item>
+  </channel>
+</rss>

@@ -1,0 +1,13 @@
+{shop_url}
+
+Γεια σου {firstname} {lastname},
+
+Επιστροφή παραγγελίας #{id_order_return} - Ενημέρωση
+
+Έχουμε ενημερώσει την διαδικασία της επιστροφής σας #{id_order_return}, η νέα κατάσταση είναι: "{state_order_return}".
+
+Ακολουθήστε την παραγγελία σας και παραλάβετε τα παραστατικά σας στο κατάστημά μας, πηγαίνετε στην ενότητα [Ιστορικό Παραγγελιών]({history_url}) της καρτέλας πελάτη.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

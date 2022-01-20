@@ -1,0 +1,17 @@
+{shop_url}
+
+Μήνυμα από πελάτη του {shop_name}
+
+E-mail Πελάτη: {email}
+
+Κωδικός Παραγγελίας #:  {order_name}
+
+Συνημμένο αρχείο: {attached_file}
+
+Μήνυμα πελάτη:
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

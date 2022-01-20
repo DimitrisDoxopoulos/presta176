@@ -1,0 +1,15 @@
+{shop_url}
+
+Γεια σου {firstname} {lastname},
+
+Ο λογαριασμός επισκέπτη, μετατράπηκε σε λογαριασμό πελάτη
+
+Συγχαρητήρια, Ο λογαριασμός επισκέπτη για το {shop_name} έχει μετατραπεί πλέον σε λογαριασμό πελάτη!
+
+Email διεύθυνση: {email}
+
+Μπορείτε να έχετε πρόσβαση στο λογαριασμό πελάτη στο κατάστημα μας: [{shop_name}]({shop_url})
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

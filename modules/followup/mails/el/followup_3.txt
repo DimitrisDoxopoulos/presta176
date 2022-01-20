@@ -1,0 +1,15 @@
+{shop_url}
+
+Γεια σου {firstname} {lastname},
+
+Σας ευχαριστούμε για τη εμπιστοσύνη σας.
+
+Θα θέλαμε να σας ευχαριστήσουμε, δίνοντας σας μια έκπτωση {amount}% στην επόμενη παραγγελία σας. Αυτή η προσφορά ισχύει για {days} ημέρες, οπότε μην χάνετε στιγμή!
+
+Αυτός είναι ο ΚΩΔΙΚΟΣ ΚΟΥΠΟΝΙΟΥ: {voucher_num}
+
+Εισάγετε αυτό τον κωδικό στο καλάθι αγορών σας για να λάβετε την έκπτωσή.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

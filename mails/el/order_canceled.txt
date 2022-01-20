@@ -1,0 +1,15 @@
+{shop_url}
+
+Γεια σου {firstname} {lastname},
+
+Παραγγελία {order_name} - Παραγγελία ακυρώθηκε
+
+Η παραγγελία σας με κωδικό {order_name} στο {shop_name} ακυρώθηκε από το κατάστημα.
+
+Πήγαινε στην καρτέλα πελάτη για να μάθεις περισσότερα.
+
+Εάν έχετε ένα λογαριασμό επισκέπτη, μπορείτε να ακολουθήσετε την παραγγελία σας μέσω της ενότητας [Παρακολούθηση Επισκέπτη]({guest_tracking_url}) στο κατάστημά μας.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

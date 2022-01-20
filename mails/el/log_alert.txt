@@ -1,0 +1,13 @@
+{shop_url}
+
+Γεια σου {firstname} {lastname},
+
+Νέα αποθήκευση μηνύματος ειδοποίησης
+
+ΠΡΟΕΙΔΟΠΟΙΗΣΗ: έχετε λάβει μια νέα ειδοποίηση καταγραφής στο Σύστημα Διαχείρισης.
+
+Μπορείς να ελέγξεις για αυτό στην ενότητα Παράμετροι > Logs του συστήματος διαχείρισης.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

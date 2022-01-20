@@ -1,0 +1,11 @@
+{shop_url}
+
+Γεια,
+
+Εγγραφή στο Ενημερωτικό Δελτίο
+
+Ευχαριστούμε που εγγραφήκατε στο ενημερωτικό δελτίο μας. Θα θέλαμε να σας προσφέρουμε το παρακάτω εκπτωτικό κουπόνι: {discount}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

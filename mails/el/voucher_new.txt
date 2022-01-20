@@ -1,0 +1,13 @@
+{shop_url}
+
+Γεια σου {firstname} {lastname},
+
+Κωδικός κουπονιού δημιουργήθηκε
+
+Αυτός είναι ο νέος κωδικός κουπονιού: {voucher_num}
+
+Για να το χρησιμοποιήσετε, απλά αντιγράψετε και επικολλήστε αυτόν τον κωδικό κατά την πληρωμή.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

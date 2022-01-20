@@ -1,0 +1,13 @@
+{shop_url}
+
+Γεια σου {firstname} {lastname},
+
+Υπάρχουν λιγότερα από {last_qty} τεμάχια σε απόθεμα.
+
+Απόθεμα που απομένει: {qty}
+
+Αναπλήρωσε το απόθεμα, πήγαινε στο Κατάλογος > Απόθεμα ενότητα του συστήματος διαχείρισης για να διαχειριστείς το απόθεμα.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

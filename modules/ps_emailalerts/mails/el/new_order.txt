@@ -1,0 +1,41 @@
+{shop_url}
+
+Συγχαρητήρια!
+
+Μια νέα παραγγελία καταχωρήθηκε στο {shop_name} από τον πελάτη: {firstname} {lastname} ({email})
+
+Λεπτομέρειες παραγγελίας
+
+Παραγγελία: {order_name} Τοποθετήθηκε στις {date}
+
+Πληρωμή: {payment}
+
+Κωδικός	προϊόν	Τιμή τεμ.	Ποσότητα	Σύνολο αξίας   {items}
+Προϊόντα	{total_products}
+Εκπτώσεις	{total_discounts}
+Συσκευασία Δώρου	{total_wrapping}
+Αποστολή	{total_shipping}
+Συμπεριλαμβάνεται συνολικός φόρος	{total_tax_paid}
+Σύνολο πληρωμών	{total_paid}
+
+Μεταφορέας
+
+Μεταφορέας: {carrier}
+
+Πληρωμή: {payment}
+
+Διεύθυνση παράδοσης
+
+{delivery_block_html}
+
+Διεύθυνση χρέωσης
+
+{invoice_block_html}
+
+Μήνυμα πελάτη:
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

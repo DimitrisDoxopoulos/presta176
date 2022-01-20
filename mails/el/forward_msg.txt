@@ -1,0 +1,15 @@
+{shop_url}
+
+Γεια σου {firstname} {lastname},
+
+Εξυπηρέτηση Πελατών - Προωθημένη Συζήτηση
+
+{employee} θέλησε να προωθήσει αυτή την συζήτηση σε σένα.
+
+Ιστορικό συζήτησης: {messages}
+
+{employee} πρόσθεσε {comment}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

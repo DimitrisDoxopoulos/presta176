@@ -1,0 +1,13 @@
+{shop_url}
+
+Γεια,
+
+Το {product} είναι πλέον διαθέσιμο.
+
+Καλά νέα, αυτό το είδος είναι πάλι σε απόθεμα!
+
+Πατήστε στο παρακάτω σύνδεσμο για να επισκεφτείτε την σελίδα του είδους και να το παραγγείλετε: [{product}]({product_link})
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)
