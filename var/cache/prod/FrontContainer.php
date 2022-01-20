@@ -2370,6 +2370,8 @@ class FrontContainer extends Container
                 60 => 'psxmarketingwithgoogle',
                 61 => 'blockreassurance',
                 62 => 'ps_facetedsearch',
+                63 => 'gmtidy',
+                64 => 'pscleaner',
             ],
             'ps_cache_dir' => 'C:\\laragon\\www\\presta176/var/cache/prod\\',
             'mail_themes_uri' => '/mails/themes',
